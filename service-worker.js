@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/threeam-or-midnight/precache-manifest.e14de4c711bd19159478cb16e1162a34.js"
+  "/threeam-or-midnight/precache-manifest.6462cf92ae7344f3d0dad67747fd093a.js"
 );
 
 self.addEventListener('message', (event) => {
