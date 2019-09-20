@@ -4,6 +4,17 @@
     width: 99%;
     height: 3.0rem;
     text-align: center;
+} 
+
+@media only screen and (max-height: 767px){
+    .footer{
+        padding-top: 1%;
+        position: static;
+        bottom: 0;
+        width: 99%;
+        height: 3.0rem;
+        text-align: center;
+    }
 }
 
 .main-content{

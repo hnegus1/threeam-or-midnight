@@ -11,12 +11,10 @@ export class Quiz extends React.Component{
     }
 
     nextQuestion(e){
-        console.log("Before setting " + this.state.songNumber);
         this.setState({songNumber: Math.floor(Math.random() * questions.length)})
     }
 
     render(){
-        console.log("Before rendering " + this.state.songNumber);
         return(
             <div>
                 <div class='title'><h1>3am or Midnight?</h1></div>
@@ -28,10 +26,7 @@ export class Quiz extends React.Component{
 }
 
 export class Question extends React.Component{
-    
-    
     constructor(props){
-        console.log("new question!");
         super(props);
         var songNumber = this.props.songNumber;
         this.state = {
@@ -66,8 +61,6 @@ export class Question extends React.Component{
     }
 
     render(){
-        console.log("in question, state is " + this.state.number)
-        console.log("in props, it is " + this.props.songNumber)
         return(
             <div>
                 <div class='question-text'><h3>Does {this.state.name} by {this.state.artist} feel like a Midnight song or a 3AM song?</h3></div>
