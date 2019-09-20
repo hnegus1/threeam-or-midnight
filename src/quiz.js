@@ -27,20 +27,6 @@ export class Quiz extends React.Component{
     }     
 }
 
-function replaceQuestion(songNumber){
-    songNumber = this.props.songNumber;
-    this.setstate({
-        number: songNumber,
-        name: questions[songNumber]['name'],
-        artist: questions[songNumber]['artist'],
-        time: questions[songNumber]['time'],
-        url: "https://open.spotify.com/embed/track/" + questions[songNumber]['url'],
-        reason: questions[songNumber]['reason'],
-        answerText: '',
-        buttonsDisabled: false
-    })
-}
-
 export class Question extends React.Component{
     
     
@@ -58,7 +44,6 @@ export class Question extends React.Component{
             answerText: '',
             buttonsDisabled: false
         }
-        replaceQuestion = replaceQuestion.bind(this)
     }
 
     componentDidUpdate(oldProps){

@@ -25,7 +25,7 @@
         "artist": "B-Side",
         "time": "three",
         "url": "22pg8Kgt6ynF0i8RZIfDHT",
-        "reason": "it's avery relaxing song. Perfect to just play and look out the window and think about life."
+        "reason": "it's a very relaxing song. Perfect to just play and look out the window and think about life."
     },
     {
         "name": "Her",
@@ -33,5 +33,104 @@
         "time": "midnight",
         "url": "4kVmLlBnLcfXIZIIhq3VUq",
         "reason": "the drums are a little heavy. Vocals certainly possess a Midnight quality"
+    },
+    {
+        "name": "controlla",
+        "artist": "Idealism",
+        "time": "three",
+        "url": "7pAwFD2HMqGxTnDq8ujxMZ",
+        "reason": "of the low-key drums and relaxing piano tunes"
+    },
+    {
+        "name": "Le Sud",
+        "artist": "L'Indécis",
+        "time": "midnight",
+        "url": "1NtmRnY9rghNeeTJD8wPNC",
+        "reason": "guitars are almost exclusively limited to Midnight. It's close to 3AM though"
+    },
+    {
+        "name": "Motionless Thoughts",
+        "artist": "Approaching Nirvana",
+        "time": "three",
+        "url": "3CihB4n4qMW0uygG4ifheh",
+        "reason": "very relaxing. Sounds of the sea, chill piano. Nothing heavy"
+    },
+    {
+        "name": "Things Work out Eventually",
+        "artist": "fantompower",
+        "time": "midnight",
+        "url": "1m3yRKDr2YJOK42d5ovteo",
+        "reason": "despite the chilled nature of the song, it still gives a feeling of wanting to get things done - the day isn't over yet"
+    },
+    {
+        "name": "Nowhere Else",
+        "artist": "Kupla",
+        "time": "midnight",
+        "url": "7y2FbuAWnK4V5Bld3NoLs0",
+        "reason": "while the drums are more muted than your average Midnight song, it still feels busy enough to keep it away from a 3AM listen"
+    },
+    {
+        "name": "Damn Fine Coffee",
+        "artist": "Mtbrd",
+        "time": "midnight",
+        "url": "2YacFgN79ou7TjlT4VNK6A",
+        "reason": "the brass makes this undoubtably a Midnight song"
+    },
+    {
+        "name": "5:32pm",
+        "artist": "The Deli",
+        "time": "midnight",
+        "url": "7qrBYrivpvfXUPBMmqh3dA",
+        "reason": "despite the reasonably chilled melody, the drums make it clear there is still many more hours in the night to come"
+    },
+    {
+        "name": "cozy winter",
+        "artist": "j'san",
+        "time": "midnight",
+        "url": "3b63o7pis3sznct3Z6EN24",
+        "reason": "it's been a long day. It's Midnight, but you don't feel like sleeping. You make a cup of tea or maybe even some coffee and see what's on Netflix."
+    },
+    {
+        "name": "She Passed Away Alone at Sea",
+        "artist": "Owsey",
+        "time": "three",
+        "url": "5xriCjsPYviq0fkqQre4xC",
+        "reason": "you wake up and realise it's 3AM. You look out the window to see the lights. Or perhaps you look out into the fields and wonder if there's anyone out there."
+    },
+    {
+        "name": "Long Espresso",
+        "artist": "o k h o and Saito",
+        "time": "midnight",
+        "url": "0qe0REpyueaBakSU0JA7o9",
+        "reason": "anything that mentions coffee is almost a guarenteed Midnight-er. The synth gives off some kind of funky energy."
+    },
+    {
+        "name": "Again",
+        "artist": "Wun Two",
+        "time": "midnight",
+        "url": "24Jk4wYlLRXI9TUMdkHoMN",
+        "reason": "drums have a moderate amount of energy. Vocals are a good sign of a Midnight-er"
+    },
+    {
+        "name": "Matt",
+        "artist": "Harris Cole",
+        "time": "three",
+        "url": "5h9RpMggjK0TYXOjV3AO70",
+        "reason": "the drums may be heavy but they are also slow. A song where you think about life, but not too hard."
+    },
+    {
+        "name": "Sleepyface",
+        "artist": "Biocratic",
+        "time": "midnight",
+        "url": "0J1vHScmNyuns9tMlcYvRy",
+        "reason": "lot's going on here makes it a pretty clear Midnight-er. Great bass."
+    },
+    {
+        "name": "Small Little Green Cubes",
+        "artist": "Solar Fields",
+        "time": "midnight",
+        "url": "1okKndEpKBnThy8t1zUumz",
+        "reason": "can be quite loud, but the buildup prepares you for it. "
     }
+
 ]
