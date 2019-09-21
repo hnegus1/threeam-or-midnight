@@ -1,17 +1,29 @@
 import React from 'react';
 import questions from './questions.json';
+import SpotifyPlayer from 'react-spotify-player';
 import {Button} from 'react-bootstrap';
 
+function shuffle(array) {
+    array.sort(() => Math.random() - 0.5);
+}
+
 export class Quiz extends React.Component{
+
+
     constructor(props){
-        super(props);
+        super(props);     
+        shuffle(questions);
         this.state = {
-            songNumber: Math.floor(Math.random() * questions.length)
-        }
+            songNumber: 0
+        }    
+
     }
 
     nextQuestion(e){
-        this.setState({songNumber: Math.floor(Math.random() * questions.length)})
+        this.setState({songNumber: this.state.songNumber + 1});
+        if(this.state.songNumber === questions.length - 1){
+            this.setState({songNumber: 0});
+        }
     }
 
     render(){
@@ -34,7 +46,7 @@ export class Question extends React.Component{
             name: questions[songNumber]['name'],
             artist: questions[songNumber]['artist'],
             time: questions[songNumber]['time'],
-            url: "https://open.spotify.com/embed/track/" + questions[songNumber]['url'],
+            url: "spotify:track:" + questions[songNumber]['url'],
             reason: questions[songNumber]['reason'],
             answerText: '',
             buttonsDisabled: false
@@ -51,7 +63,7 @@ export class Question extends React.Component{
                     name: questions[songNumber]['name'],
                     artist: questions[songNumber]['artist'],
                     time: questions[songNumber]['time'],
-                    url: "https://open.spotify.com/embed/track/" + questions[songNumber]['url'],
+                    url: "spotify:track:" + questions[songNumber]['url'],
                     reason: questions[songNumber]['reason'],
                     answerText: '',
                     buttonsDisabled: false
@@ -61,10 +73,16 @@ export class Question extends React.Component{
     }
 
     render(){
+        var playerSize = {width: 300, height: 80}
         return(
             <div>
                 <div class='question-text'><h3>Does {this.state.name} by {this.state.artist} feel like a Midnight song or a 3AM song?</h3></div>
-                <div class='song-embed'><iframe title="song" src={this.state.url} width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+                <div class='song-embed'>
+                    <SpotifyPlayer 
+                        uri={this.state.url}
+                        size={playerSize}
+                    />
+                </div>
                 <div class='button-midnight'>
                     <Button 
                         variant='warning' 

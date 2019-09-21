@@ -88,49 +88,146 @@
         "artist": "j'san",
         "time": "midnight",
         "url": "3b63o7pis3sznct3Z6EN24",
-        "reason": "it's been a long day. It's Midnight, but you don't feel like sleeping. You make a cup of tea or maybe even some coffee and see what's on Netflix."
+        "reason": "picture this: it's been a long day. It's Midnight, but you don't feel like sleeping. You make a cup of tea or maybe even some coffee and see what's on Netflix."
     },
     {
         "name": "She Passed Away Alone at Sea",
         "artist": "Owsey",
         "time": "three",
         "url": "5xriCjsPYviq0fkqQre4xC",
-        "reason": "you wake up and realise it's 3AM. You look out the window to see the lights. Or perhaps you look out into the fields and wonder if there's anyone out there."
+        "reason": "picture this: you wake up and realise it's 3AM. You look out the window to see the lights. Or perhaps you look out into the fields and wonder if there's anyone out there."
     },
     {
         "name": "Long Espresso",
         "artist": "o k h o and Saito",
         "time": "midnight",
         "url": "0qe0REpyueaBakSU0JA7o9",
-        "reason": "anything that mentions coffee is almost a guarenteed Midnight-er. The synth gives off some kind of funky energy."
+        "reason": "anything that mentions coffee is almost a guarenteed Midnight-er. The synth gives off some kind of funky energy"
     },
     {
         "name": "Again",
         "artist": "Wun Two",
         "time": "midnight",
         "url": "24Jk4wYlLRXI9TUMdkHoMN",
-        "reason": "drums have a moderate amount of energy. Vocals are a good sign of a Midnight-er"
+        "reason": "the drums have a moderate amount of energy. Vocals are a good sign of a Midnight-er"
     },
     {
         "name": "Matt",
         "artist": "Harris Cole",
         "time": "three",
         "url": "5h9RpMggjK0TYXOjV3AO70",
-        "reason": "the drums may be heavy but they are also slow. A song where you think about life, but not too hard."
+        "reason": "the drums may be heavy but they are also slow. A song where you think about life, but not too hard"
     },
     {
         "name": "Sleepyface",
         "artist": "Biocratic",
         "time": "midnight",
         "url": "0J1vHScmNyuns9tMlcYvRy",
-        "reason": "lot's going on here makes it a pretty clear Midnight-er. Great bass."
+        "reason": "there's lots going on here makes it a pretty clear Midnight-er. Great bass"
     },
     {
         "name": "Small Little Green Cubes",
         "artist": "Solar Fields",
         "time": "midnight",
         "url": "1okKndEpKBnThy8t1zUumz",
-        "reason": "can be quite loud, but the buildup prepares you for it. "
+        "reason": "it can be quite loud, but the buildup prepares you for it"
+    },
+    {
+        "name": "This Isn't You",
+        "artist": "Kyle Dixon & Micheal Stein",
+        "time": "three",
+        "url": "4cocLXeDOiFIPBgZCvJ3RF",
+        "reason": "there's nothing too heavy here. Just a very relaxing song"
+    },
+    {
+        "name": "Getsomerest/sleepwell",
+        "artist": "quickly, quickly",
+        "time": "midnight",
+        "url": "2RycgtfFQZOPgEGrzBGE0j",
+        "reason": "there's brass, heavy-ish drums and vocals. All characteristics of a Midnight song"
+    },
+    {
+        "name": "Stay the Same",
+        "artist": "Canti",
+        "time": "midnight",
+        "url": "5WOqmIbkVBmX6KyTq2PL2z",
+        "reason": "there's a lot going on, but it certainly could be a 3AM song under a different opinion"
+    },
+    {
+        "name": "Boys' Bop",
+        "artist": "Biocratic",
+        "time": "midnight",
+        "url": "5CCMFgONkUF6190RYFqXtH",
+        "reason": "there would be too much energy if it was a 3AM song"
+    },
+    {
+        "name": "Plswaveback",
+        "artist": "Slacker",
+        "time": "midnight",
+        "url": "3Wb496o1hojhSrd1RRLI2h",
+        "reason": "the synth definitely pushes it into Midnight territory"
+    },
+    {
+        "name": "I Wish I Could Sleep",
+        "artist": "Nymano",
+        "time": "three",
+        "url": "08lctzE8dgIbSfyz84XHNr",
+        "reason": "despite how busy it is, it just feels like a song that would be played at 3AM, y'know? It's all opinion though, so give yourself a point if you chose Midnight"
+    },
+    {
+        "name": "Nostos",
+        "artist": "Jean-Michel Blais, BUFFLO",
+        "time": "three",
+        "url": "0W7B9MsXAJQerT6jE414cF",
+        "reason": "it does get loud, but there's a buildup and that buildup is perfect for 3AM listening"
+    },
+    {
+        "name": "Don't Know How to Say This to You",
+        "artist": "Sean Angus Watson",
+        "time": "three",
+        "url": "7mPdPi2a6u9brDjihLfnj3",
+        "reason": "guitars are usually off-limits for 3AM listening, but this one feels quite pure and relaxing"
+    },
+    {
+        "name": "Beyond Dazed",
+        "artist": "Broke For Free",
+        "time": "midnight",
+        "url": "1RpWLYAy57PQsS9SlZgZp2",
+        "reason": "of the strong drums, but still perfect for listening while thinking about what it all means."
+    },
+    {
+        "name": "Suzhou",
+        "artist": "Shinamo Moki",
+        "time": "midnight",
+        "url": "2qYt9RppGWZtCgVrIEDfRY",
+        "reason": "it's one of the more lively songs on the list. It's more of a 'it's just turned midnight and I've still got 7 pages to go on this essay' song"
+    },
+    {
+        "name": "My Take on Solidao.",
+        "artist": "fantompower",
+        "time": "three",
+        "url": "1we19xJHVgAUYN1REQyhuw",
+        "reason": "no matter how bad it is. No matter how bad you're feeling. Everything will be okay"
+    },
+    {
+        "name": "The Cave//Wexas",
+        "artist": "Abe M Beats",
+        "time": "midnight",
+        "url": "78ea6nnPFad1pA9ijt5SHJ",
+        "reason": "you're not listening to this song unless there's something to do."
+    },
+    {
+        "name": "Introduction to the Snow",
+        "artist": "Miracle Musical",
+        "time": "midnight",
+        "url": "7qLs0IyUn6TrqgMzQ33SdH",
+        "reason": "as the clock strikes Midnight, you look out the window and notice it's started snowing. You gaze upon the streets and watch the droplets fall"
+    },
+    {
+        "name": "He^rt",
+        "artist": "Starcadian",
+        "time": "midnight",
+        "url": "0wKO2qrYbK7EXhceYyGhjw",
+        "reason": "there's a fast tempo and some neat drums"
     }
-
 ]
